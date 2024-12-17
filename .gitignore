@@ -1,0 +1,39 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Crash reports
+[Cc]rash/[Rr]eports/
+
+# Cache files
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/AssetBundleCache
+
+# Auto-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
